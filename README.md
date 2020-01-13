@@ -36,3 +36,5 @@ Para instalar o linter, execute o comando:
 
 **Editor de textos / Extensão**  
 Utilizando o VS Code ([https://code.visualstudio.com/Download](https://code.visualstudio.com/Download)), instale a extensão para Go (ms-vscode.go);
+
+13/01/2020 - Estudos na linguagem Go paralizados devido a priorização do estudo de PHP.
